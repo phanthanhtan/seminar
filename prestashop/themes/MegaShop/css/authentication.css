@@ -1,0 +1,15 @@
+/**********************************************************
+				Authentication Styles
+**********************************************************/
+#authentication #create-account_form,
+#authentication #login_form {
+  float:left;
+}
+#authentication #new_account_form {clear: both}
+.lost_password a{font-size:11px; text-decoration: underline;}
+.lost_password a:hover{text-decoration: none;}
+
+#account-creation_form .id_state,
+#account-creation_form .dni,
+#account-creation_form .postcode {
+  display: none; }

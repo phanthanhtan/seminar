@@ -1,0 +1,29 @@
+#currencies-block-top {
+  color: #777;
+  position: absolute;
+  z-index:5;
+}
+#currencies-block-top span.firstWord {display: none;}
+#currencies-block-top div.current {cursor: pointer;}
+#currencies-block-top div.current:after {
+  content: "\f107";
+  font-family: "FontAwesome";
+  font-size: 14px;
+  color: #777;
+  margin-left: 5px;
+}
+#currencies-block-top ul {
+  background: #fff;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
+  display: none;
+  position: absolute;
+  top: 23px;
+  right: 0;
+  width: 70px;
+}
+#currencies-block-top ul li {margin: 10px;}
+#currencies-block-top ul li.selected a,
+#currencies-block-top ul li:hover a {
+  color: #F13340;
+  text-decoration: none;
+}

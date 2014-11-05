@@ -1,0 +1,69 @@
+/********************************************************
+			One-Page Checkout Styles
+********************************************************/
+#order-opc {}
+#order-opc .cart_navigation {margin-bottom: 50px;}
+#order-opc .page-heading.step-num {
+  background: #444444;
+  color: #FFFFFF;
+  font-size: 14px;
+  margin: 20px 0 15px;
+  padding: 0;  
+}
+#order-opc .page-heading.step-num span {
+  background: #DDDDDD;
+  color: #333333;
+  display: inline-block;
+  margin: 0 5px 0 0;
+  padding: 8px 14px;
+}
+#opc_new_account #login_form {margin: 0 0 15px;}
+#opc_new_account #login_form,
+#opc_new_account #new_account_form {
+  border: 1px solid #EEEEEE;
+}
+#order-opc #login_form h3,
+#new_account_form h3 {}
+#new_account_form h3.top-indent{margin: 15px 0;}
+#opc_new_account #login_form #openLoginFormBlock {}
+#opc_new_account #login_form #login_form_content,
+#opc_account_choice,
+#opc_account_form {overflow: hidden;}
+
+#order-opc .form-group { }
+#order-opc .form-group .form-control {}
+#order-opc .lost_password {
+  display: inline-block;
+  font-size: 11px;
+  text-decoration: underline;
+  margin: 5px 0 14px;
+}
+#order-opc .lost_password:hover {text-decoration: none;}
+#order-opc .title_block {}
+  #order-opc .opc-button {
+    padding: 11px 0 0 0; }
+  #order-opc ul.bullet {
+    line-height: 22px;
+    margin-bottom: 5px; }
+  #order-opc .date-select {
+    padding-bottom: 10px; }
+  #order-opc .opc-add-save {
+    border-top: 1px solid #eee;
+    margin-top: 20px;
+    padding-top: 20px; }
+  #order-opc #message {
+    margin-bottom: 35px; }
+  #order-opc #opc_payment_methods {
+    margin-bottom: 30px; }
+#order-opc #opc_payment_methods p.warning {}
+  #order-opc #opc_account {
+    margin-bottom: 30px; }
+  #order-opc .address_delivery.select {
+    margin-bottom: 15px; }
+  #order-opc #address_invoice_form.form-group {
+    margin-bottom: 30px; }
+
+#new_account_form .id_state,
+#new_account_form .dni,
+#new_account_form .postcode {
+  display: none; }

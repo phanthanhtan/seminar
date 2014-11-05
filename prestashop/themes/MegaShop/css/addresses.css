@@ -1,0 +1,43 @@
+
+#address_delivery {}
+#address_invoice {margin-right:0}
+#delivery_address {margin-right:65px;}
+
+.bloc_adresses{
+	overflow: hidden;
+	margin: 15px 0 0;
+}
+.addresses .address {
+	border: 1px solid #E5E5E5;
+	border-radius: 4px;
+	position:relative;
+	margin:0 10px 15px 0;
+	padding: 0 0 10px;
+}
+.address li {
+	margin: 0 0 5px;
+	padding:0 10px;
+}
+.address li.address_title {
+	background: #F5F5F5;
+	border-bottom: 1px solid #E5E5E5;
+	font-weight: bold;
+	margin: 0 0 8px;
+	padding: 10px;
+}
+
+.address li.address_firstname,
+.address li.address_company {
+	margin-top:8px
+}
+
+.address li.address_update {
+	position: absolute;
+	right: 0px;
+	top: 5px;
+}
+.address li.address_update a{color: #777; font-size: 21px; margin: 0 0 0 5px;}
+.address li.address_update a:hover{color: #333;}
+
+.addresses .address.alternate_item,
+.addresses .address.last_item {margin-right:0}

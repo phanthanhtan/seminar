@@ -1,0 +1,60 @@
+/*** Top Menu ***/
+#tptntopmenu {position:absolute;}
+#tptntopmenu ul {list-style:none;}
+ul.topmenu li {
+	float: left;
+    position: relative;
+}
+ul.topmenu li.last{}
+ul.topmenu li#category-thumbnail{display: none;}
+ul.topmenu ul {
+	background: none repeat scroll 0 0 #fff;
+	box-shadow:0 0 5px 0 rgba(0, 0, 0, 0.3);
+	padding:5px 0;
+	position:absolute;
+	display:none;
+	z-index:100;
+}
+ul.topmenu ul li {
+	width:180px;
+}
+ul.topmenu li:hover ul,
+ul.topmenu li.tptnHover ul {left:0;}
+ul.topmenu li li:hover ul,
+ul.topmenu li li.tptnHover ul {
+	left:170px; /* match ul width */
+	top:0;
+}
+ul.topmenu li li li:hover ul,
+ul.topmenu li li li.tptnHover ul {
+	left:170px; /* match ul width */
+	top:0;
+}
+ul.topmenu li a {
+    color:#fff;
+	font-family:'Open Sans';
+	font-size:14px;
+	padding:0 10px;
+    line-height:40px;
+	display:block;	
+	text-decoration:none;
+	text-transform: uppercase;
+}
+ul.topmenu li a:hover,
+ul.topmenu li.tptnHover > a{
+	background:rgba(0,0,0,0.3);
+}
+ul.topmenu li li a{
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:12px;
+	padding:5px;
+    line-height:normal;
+    text-transform: none;
+}
+ul.topmenu li.tptnHover ul li {}
+ul.topmenu li.tptnHover ul li a{ 
+	color:#333;
+	padding: 5px 10px;
+}
+ul.topmenu li.tptnHover ul li a:hover,
+ul.topmenu li.tptnHover ul li.tptnHover:hover > a{background:#f5f5f5}
