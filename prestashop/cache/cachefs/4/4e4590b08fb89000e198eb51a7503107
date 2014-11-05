@@ -1,0 +1,36 @@
+a:3:{i:0;a:18:{s:10:"id_product";s:1:"8";s:20:"id_product_attribute";N;s:12:"link_rewrite";s:24:"dien-thoai-iphone-4s-8gb";s:4:"name";s:29:"Điện thoại iPhone 4S 8GB";s:17:"description_short";s:702:"<ul class="parametdesc">
+<li><strong>Chức năng, cấu h&igrave;nh</strong>&nbsp;iPhone 4S 8GB</li>
+<li class="even  ">M&agrave;n h&igrave;nh:DVGA, 3.5", 640 x 960 pixels</li>
+<li class="odd  ">CPU:Apple A5, 2 nh&acirc;n, 1 GHz</li>
+<li class="even  ">RAM512 MB</li>
+<li class="odd  ">Hệ điều h&agrave;nh:iOS 7.0</li>
+<li class="even  ">Camera ch&iacute;nh:8.0 MP, Quay phim FullHD 1080p@30fps</li>
+<li class="odd  ">Camera phụ:VGA (0.3 Mpx)</li>
+<li class="even  ">Bộ nhớ trong:8 GB</li>
+<li class="odd  ">Thẻ nhớ ngo&agrave;i:Kh&ocirc;ng</li>
+<li class="even  bordernone">Dung lượng pin:1420 mAh</li>
+</ul>
+<div class="clr"> </div>
+<div class="tableparameter"> </div>";s:8:"id_image";s:2:"24";s:6:"legend";s:29:"Điện thoại iPhone 4S 8GB";s:5:"sales";s:1:"1";s:5:"ean13";s:0:"";s:3:"upc";s:0:"";s:8:"category";s:6:"iphone";s:10:"show_price";s:1:"1";s:19:"available_for_order";s:1:"1";s:8:"quantity";s:4:"1000";s:12:"customizable";s:1:"0";s:16:"minimal_quantity";s:1:"1";s:12:"out_of_stock";s:1:"1";s:3:"new";s:1:"0";}i:1;a:18:{s:10:"id_product";s:2:"16";s:20:"id_product_attribute";N;s:12:"link_rewrite";s:11:"lenovo-s850";s:4:"name";s:11:"Lenovo S850";s:17:"description_short";s:622:"<ul class="parametdesc">
+<li><strong>Chức năng, cấu h&igrave;nh</strong>&nbsp;Lenovo S850</li>
+<li class="even  ">M&agrave;n h&igrave;nh:HD, 5.0", 720 x 1280 pixels</li>
+<li class="odd  ">CPU:MTK 6582M, 4 nh&acirc;n, 1.3 GHz</li>
+<li class="even  ">RAM1 GB</li>
+<li class="odd  ">Hệ điều h&agrave;nh:Android 4.4 (KitKat)</li>
+<li class="even  ">Camera ch&iacute;nh:13 MP, C&oacute;</li>
+<li class="odd  ">Camera phụ:5 MP</li>
+<li class="even  ">Bộ nhớ trong:16 GB</li>
+<li class="odd  ">Thẻ nhớ ngo&agrave;i:Kh&ocirc;ng</li>
+<li class="even  bordernone">Dung lượng pin:2150 mAh</li>
+</ul>";s:8:"id_image";s:2:"58";s:6:"legend";s:11:"Lenovo S850";s:5:"sales";s:1:"1";s:5:"ean13";s:0:"";s:3:"upc";s:0:"";s:8:"category";s:4:"home";s:10:"show_price";s:1:"1";s:19:"available_for_order";s:1:"1";s:8:"quantity";s:3:"422";s:12:"customizable";s:1:"0";s:16:"minimal_quantity";s:1:"1";s:12:"out_of_stock";s:1:"2";s:3:"new";s:1:"0";}i:2;a:18:{s:10:"id_product";s:2:"25";s:20:"id_product_attribute";N;s:12:"link_rewrite";s:24:"-samsung-galaxy-grand-2-";s:4:"name";s:24:" Samsung Galaxy Grand 2 ";s:17:"description_short";s:669:"<ul class="parametdesc">
+<li><strong>Chức năng, cấu h&igrave;nh</strong>&nbsp;Samsung Galaxy Grand 2</li>
+<li class="even  ">M&agrave;n h&igrave;nh:HD, 5.25", 720 x 1280 pixels</li>
+<li class="odd  ">CPU:Qualcomm Snapdragon 400, 4 nh&acirc;n, 1.2 GHz</li>
+<li class="even  ">RAM1.5 GB</li>
+<li class="odd  ">Hệ điều h&agrave;nh:Android 4.3 (Jelly Bean)</li>
+<li class="even  ">Camera ch&iacute;nh:8.0 MP, Quay phim FullHD 1080p@30fps</li>
+<li class="odd  ">Camera phụ:1.9 MP</li>
+<li class="even  ">Bộ nhớ trong:8 GB</li>
+<li class="odd  ">Thẻ nhớ ngo&agrave;i:64 GB</li>
+<li class="even  bordernone">Dung lượng pin:2600 mAh</li>
+</ul>";s:8:"id_image";s:2:"94";s:6:"legend";s:24:" Samsung Galaxy Grand 2 ";s:5:"sales";s:1:"1";s:5:"ean13";s:0:"";s:3:"upc";s:0:"";s:8:"category";s:7:"samsung";s:10:"show_price";s:1:"1";s:19:"available_for_order";s:1:"1";s:8:"quantity";s:2:"99";s:12:"customizable";s:1:"0";s:16:"minimal_quantity";s:1:"1";s:12:"out_of_stock";s:1:"2";s:3:"new";s:1:"1";}}
