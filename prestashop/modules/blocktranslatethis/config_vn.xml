@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blocktranslatethis</name>
+	<displayName><![CDATA[Block Translate This]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[Integrate Translate This script on your site.]]></description>
+	<author><![CDATA[Mediacom87]]></author>
+	<tab><![CDATA[i18n_localization]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

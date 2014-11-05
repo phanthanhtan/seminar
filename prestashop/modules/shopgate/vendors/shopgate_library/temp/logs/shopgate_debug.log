@@ -1,0 +1,22 @@
+28-10-2014 02:32:45: INSTALLATION - checking for cURL
+28-10-2014 02:32:45: INSTALLATION - calling parent::install()
+28-10-2014 02:32:52: INSTALLATION - registering hookpoints
+28-10-2014 02:32:52: INSTALLATION - registering hookpoint "header"
+28-10-2014 02:32:52: INSTALLATION - registering hookpoint "adminOrder"
+28-10-2014 02:32:52: INSTALLATION - registering hookpoint "updateOrderStatus"
+28-10-2014 02:32:52: INSTALLATION - version is >= 1.5.0.0 - registering hookpoint "displayMobileHeader"
+28-10-2014 02:32:52: INSTALLATION - fetching database object
+28-10-2014 02:32:52: INSTALLATION - updating database
+28-10-2014 02:32:52: INSTALLATION - adding table "shopgate_order" to database
+28-10-2014 02:32:52: INSTALLATION - checking for field "comments" inside table "shopgate_order"
+28-10-2014 02:32:52: INSTALLATION - checking for field "shop_number" inside table "shopgate_order"
+28-10-2014 02:32:52: INSTALLATION - database updates have been performed successfully
+28-10-2014 02:32:52: INSTALLATION - fetching Shopgate carrier with statement ...
+28-10-2014 02:32:52: ... for version > 1.4.0.1 ...
+28-10-2014 02:32:52: ... SELECT `id_carrier` FROM `ps_carrier` WHERE `external_module_name` = 'shopgate'
+28-10-2014 02:32:52: INSTALLATION - creating carrier object with ID: 0
+28-10-2014 02:32:52: INSTALLATION - adding carrier
+28-10-2014 02:32:53: INSTALLATION - adding order states
+28-10-2014 02:32:53: INSTALLATION - setting config values
+28-10-2014 02:32:53: INSTALLATION - saving configuration values
+28-10-2014 02:32:55: INSTALLATION - installation was successful
